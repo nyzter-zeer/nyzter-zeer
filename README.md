@@ -14,7 +14,7 @@ Apasionado por la conectividad y la infraestructura de redes. Me especializo en 
 - 🔭 Actualmente trabajando en proyectos de **VoIP (Asterisk/FreePBX/Kamailio)** y automatización de infraestructura con **Docker** y **n8n**.
 - 🌱 Aprendiendo constantemente sobre **ciberseguridad** (Fortinet NSE, Palo Alto, Red Hat) y arquitecturas híbridas escalables.
 - 🎯 Enfocado en redes, telecomunicaciones y automatización de infraestructura crítica.
-- 🌎 Peñaflor, Región Metropolitana, Chile.
+- 🌎 Santiago, Región Metropolitana, Chile.
 
 ---
 
